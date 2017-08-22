@@ -9,6 +9,7 @@ public class FreshJuiceTest {
 		// TODO Auto-generated method stub
 		 FreshJuice juice = new FreshJuice();
 	      juice.size = FreshJuice.FreshJuiceSize.MEDIUM  ;
+	      
 	}
 
 }

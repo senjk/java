@@ -20,7 +20,13 @@ import javax.swing.*;
  */  
   
 public class ChessBoard extends JPanel implements MouseListener {  
-   public static final int MARGIN=30;//边距  
+   /**
+	 *@author 程森
+	 *2017年8月12日下午1:15:10
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+public static final int MARGIN=30;//边距  
    public static final int GRID_SPAN=35;//网格间距  
    public static final int ROWS=15;//棋盘行数  
    public static final int COLS=15;//棋盘列数  

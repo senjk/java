@@ -7,7 +7,13 @@ import javax.swing.*;
  五子棋主框架類，程序啟動類 
  */  
 public class StartChessJFrame extends JFrame {  
-  private ChessBoard chessBoard;  
+  /**
+	 *@author 程森
+	 *2017年8月12日下午1:15:34
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+private ChessBoard chessBoard;  
   private JPanel toolbar;  
   private JButton startButton,backButton,exitButton;  
     

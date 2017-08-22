@@ -1,0 +1,7 @@
+2017-08-15 09:49:25trycatch.Test2.divid(Test2.java:24) Test2.java DEBUG 输入第一个整数2
+2017-08-15 09:49:28trycatch.Test2.divid(Test2.java:27) Test2.java DEBUG 输入第一个整数0
+2017-08-15 09:49:28trycatch.Test2.divid(Test2.java:37) Test2.java ERROR / by zero除数不能为0
+2017-08-15 09:49:53trycatch.Test2.divid(Test2.java:34) Test2.java ERROR null输入不匹配
+2017-08-15 11:11:17trycatch.Test2.divid(Test2.java:24) Test2.java DEBUG 输入第一个整数2
+2017-08-15 11:11:21trycatch.Test2.divid(Test2.java:27) Test2.java DEBUG 输入第一个整数0
+2017-08-15 11:11:21trycatch.Test2.divid(Test2.java:37) Test2.java ERROR / by zero除数不能为0
