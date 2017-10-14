@@ -14,6 +14,7 @@
        <label>用户名称:</label>
        <input type="text" id="code">
      </div>
+     
      <div>
        <label>用户密码:</label>
        <input type="password" id="password1">
@@ -27,7 +28,7 @@
   	 function ajax(){
   		 var datas={"code":$('#code').val(),"password1":$('#password1').val()};
   		 $.ajax({
-  			 url:'LogginService',
+  			 url:'LogginServlet',
   			 type:'post',
   			 dataType:'json',
   			 data:datas,

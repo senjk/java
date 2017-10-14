@@ -28,6 +28,10 @@ public class Test {
 	   String s="ton";
 	   df.test(i, s);
 	   System.out.println(i);
+	   
+	   for(;i<5;i++){
+		   
+	   }
 	}
 
 }

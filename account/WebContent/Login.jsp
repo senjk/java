@@ -14,6 +14,7 @@
        <label>用户名称:</label>
        <input type="text" id="code">
      </div>
+     
      <div>
        <label>用户密码:</label>
        <input type="password" id="password1">
@@ -23,11 +24,11 @@
   </form>
   <div id="message" style="color:red;"></div>
   </center>
-  	<script type="text/javascript">
+  <script type="text/javascript">
   	 function ajax(){
   		 var datas={"code":$('#code').val(),"password1":$('#password1').val()};
   		 $.ajax({
-  			 url:'LogginService',
+  			 url:'LoginServlet',
   			 type:'post',
   			 dataType:'json',
   			 data:datas,
@@ -37,7 +38,7 @@
   	 }
   	function success_function(ajaxData){
   		if("0"==ajaxData){
-  			location.href="success.jsp";
+  			location.href="Success.jsp";
   		}else{
   			$('#message').html("用户名或密码错误！");
   		}

@@ -1,0 +1,27 @@
+2017-08-28 10:30:47mysqls.Test1.main(Test1.java:43) Test1.java ERROR com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+2017-08-28 10:31:41mysqls.Test1.main(Test1.java:43) Test1.java ERROR com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+2017-08-28 10:32:32mysqls.Test1.main(Test1.java:43) Test1.java ERROR com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 1 ms ago.
+2017-08-28 10:34:12mysqls.Test1.main(Test1.java:43) Test1.java ERROR com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+2017-08-28 10:34:44mysqls.Test1.main(Test1.java:43) Test1.java ERROR com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+2017-08-28 10:35:50mysqls.Test1.main(Test1.java:43) Test1.java ERROR com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 1 ms ago.
+2017-08-28 10:39:31mysqls.Test1.main(Test1.java:43) Test1.java ERROR com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+2017-08-28 10:49:47mysqls.Test1.main(Test1.java:43) Test1.java ERROR com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+2017-08-28 11:08:32mysqls.Test1.main(Test1.java:43) Test1.java ERROR com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 1 ms ago.
